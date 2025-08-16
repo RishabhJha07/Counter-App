@@ -32,7 +32,6 @@ This project demonstrates basic DOM manipulation, event handling, and styling wi
 counter-app/
 │
 ├── index.html     # Main HTML file
-├── style.css      # Optional extra styles (if used)
 ├── script.js      # JavaScript logic for counter
 └── README.md      # Project documentation
 tation
